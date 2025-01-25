@@ -10,7 +10,7 @@ logging.basicConfig(filename="weather_app.log", level=logging.INFO,
                     format="%(asctime)s - %(levelname)s - %(message)s")
 
 # API Configuration
-API_KEY = "69759590e0d4ef41d751b1aeb7687097"
+  API_KEY = "<---Enter YOUR API KEY HERE --->"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 # Database Setup
